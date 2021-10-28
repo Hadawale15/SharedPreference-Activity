@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PreferenceActivity</string>
+    <string-array name="LanguageOption">
+        <item> English </item>
+        <item> Marathi</item>
+        <item>Hindi</item>
+    </string-array>
+
+    <string-array name="Values">
+        <item>English Language</item>
+        <item>Marathi Language</item>
+        <item>Hindi Language</item>
+    </string-array>
+</resources>
